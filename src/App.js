@@ -1,12 +1,14 @@
 
 import './App.css';
+import Header from './components/Header/Header';
 
 function App() {
   // window + ; => emoji picker
   return (
-    <div className="App">
-    🎬🎬
-    </div>
+    <>
+      <Header />
+      <div className='app'>hi</div>
+    </>
   )
 }
 

@@ -1,5 +1,6 @@
 .header{
     position:fixed;
+    cursor: pointer;
     display: flex;
     justify-content: center;
     color: #fff;

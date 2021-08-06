@@ -30,7 +30,7 @@ export default function SimpleBottomNavigation() {
        } else if (value === 3) {
          history.push('/search')
        }
-  }, [value])
+  }, [value,history])
 
   return (
     <BottomNavigation

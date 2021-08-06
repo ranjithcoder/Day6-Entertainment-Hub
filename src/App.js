@@ -4,10 +4,11 @@ import { BrowserRouter, Route, Switch } from 'react-router-dom';
 import './App.css';
 import Header from './components/Header/Header';
 import SimpleBottomNavigation from './components/MainNav';
-import Movies from './components/Pages/Movies/Movies';
-import Search from './components/Pages/Search/Search';
-import Series from './components/Pages/Series/Series';
-import Trending from './components/Pages/Trending/Trending';
+import Movies from './Pages/Movies/Movies';
+import Search from './Pages/Search/Search';
+import Series from './Pages/Series/Series';
+import Trending from './Pages/Trending/Trending';
+require('dotenv').config();
 
 function App() {
   // window + ; => emoji picker

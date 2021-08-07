@@ -12,3 +12,9 @@ day 7 of ***100 days of code*** started this project named Entertainment-Hub pro
 ![page2](https://github.com/ranjithcoder/Day7-Entertainment-Hub/blob/main/screenshots/2.png)
 
 - user can search for any movie or series using search tab
+
+![page3](https://github.com/ranjithcoder/Day7-Entertainment-Hub/blob/main/screenshots/3.png)
+
+- users can see the cast and overview of movie 
+
+![page$](https://github.com/ranjithcoder/Day7-Entertainment-Hub/blob/main/screenshots/4.png)

@@ -8,6 +8,7 @@ import axios from 'axios'
 import { Button } from '@material-ui/core'
 import { YouTube } from '@material-ui/icons'
 import "./ContentModal.css"
+import Carousel from '../Carousel/Carousel'
 
 const useStyles = makeStyles((theme) => ({
   modal: {
@@ -126,7 +127,7 @@ useEffect(() => {
                   </span>
 
                   <div>
-                    
+                    <Carousel id={id} media_type={media_type} />
                   </div>
 
                   <Button

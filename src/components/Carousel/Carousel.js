@@ -15,7 +15,7 @@ const Carousel = ({media_type,id}) => {
         <div className="carouselItem">
         <img 
         className='carouselItem__img'
-        alt={c?.name}
+        alt={c.name}
         onDragStart={handleDragStart}
         src={c.profile_path ? `${img_300}/${c.profile_path}`:noPicture}>
 
@@ -30,7 +30,8 @@ const Carousel = ({media_type,id}) => {
         setCredits(data.cast);
     };
    useEffect(() => {
-     fetchCredits();
+     fetchCredits()
+     // eslint-disable-next-line
    }, [])
 
    const responsive = {

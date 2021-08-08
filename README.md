@@ -1,8 +1,8 @@
 # Day7-Entertainment-Hub
 
-day 7 of ***100 days of code*** started this project named Entertainment-Hub 
+day 7 and 8  of ***100 days of code*** completed this project. 
 
-see [Live demo](https://entertainmenthub.netlify.app/)
+see [Live demo](https://ranjithjupaka-entertainment-hub.netlify.app)
 
 >### features of this project
 - it allows users to see the details of trending movies and series.

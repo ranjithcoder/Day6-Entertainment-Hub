@@ -1,4 +1,4 @@
-# Day7-Entertainment-Hub
+# Day7 & 8-Entertainment-Hub
 
 day 7 and 8  of ***100 days of code*** completed this project. 
 
